@@ -15,9 +15,9 @@ Veri Seti: Diyabet tanısı için kullanılan klinik ölçümleri içeren tabula
 
 Hedef Değişken: `Outcome` sütunu  
 
-`  `- `1` → Diyabet var  
+- `1` → Diyabet var  
 
-`  `- `0` → Diyabet yok
+- `0` → Diyabet yok
 
 3\. Yöntem
 
@@ -31,11 +31,11 @@ Veri Bölünmesi: %80 eğitim, %20 test.
 
 Performans Ölçümleri:  
 
-`  `- Accuracy, Precision, Recall, F1 Score, Specificity
+- Accuracy, Precision, Recall, F1 Score, Specificity
 
-`  `- Eğitim ve tahmin süreleri 
+- Eğitim ve tahmin süreleri 
 
-`  `- Karmaşıklık Matrisi oluşturulup görselleştirilmiştir.
+- Karmaşıklık Matrisi oluşturulup görselleştirilmiştir.
 
 B. Naive Bayes
 
@@ -45,11 +45,11 @@ Veri Bölünmesi: %80 eğitim, %20 test kullanılmıştır.
 
 Performans Ölçümleri:  
 
-`  `- Kendi yazdığımız fonksiyonlarla Accuracy, Precision, Recall, F1 Score ve Specificity hesaplanmıştır.
+- Kendi yazdığımız fonksiyonlarla Accuracy, Precision, Recall, F1 Score ve Specificity hesaplanmıştır.
 
-`  `- Eğitim ve tahmin süreleri 
+- Eğitim ve tahmin süreleri 
 
-`  `- Karmaşıklık Matrisi hesaplanıp görselleştirilmiştir.
+- Karmaşıklık Matrisi hesaplanıp görselleştirilmiştir.
 
 4\. Sonuçlar
 
